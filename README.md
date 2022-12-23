@@ -1,5 +1,5 @@
 # mc-logs-ip-hider
-Quick script for remove IP addresses for Minecraft log files
+Quick script for remove IP addresses for Minecraft log files. Technically an IP address remover, not a hider.
 
 ## How to run:
 1. paste the script in the parent directory that contains all the logs
